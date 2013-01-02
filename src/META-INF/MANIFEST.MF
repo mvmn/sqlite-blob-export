@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Vendor: "Mykola Makhin"
+Class-Path: sqlitejdbc-v056.jar
+Sealed: true
+Main-Class: x.mvmn.sqliteblobexporter.Main
+
